@@ -1,6 +1,6 @@
-# Demo Git Repository
+# Git-Demo Repository
 
-This is the first file in the demo git repository.
+This is the README file in the git-demo repository.
 
 ## Website Contents
 
