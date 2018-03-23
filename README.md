@@ -4,7 +4,8 @@ This is the README.md file in the git-demo repository.
 
 ## Website Contents
 
-This will be the website content for the Udemy course named 'Git Crash Course' (Instructor is Jason Taylor).  
+This will be the website content for the Udemy course named 'Git Crash Course'.
+The Instructor is Jason Taylor.  
 Here is a list of the files in the website (excluding the git control files).
 
 ### Root Folder:
