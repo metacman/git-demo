@@ -1,6 +1,6 @@
 # Git-Demo Repository
 
-This is the README.md file in the git-demo repository.
+This is the README.md file for the git-demo repository.
 
 ## Website Contents
 
