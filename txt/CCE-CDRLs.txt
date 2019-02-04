@@ -1,0 +1,14 @@
+CDRL Number 	Product Name
+N/A				App Analysis Deliverable
+A004			Configuration Management Plan
+A005			Configuration Management Report
+A008			Contract Work Breakdown Structure (CWBS)
+A016			Integrated Master Schedule (IMS)
+A018			Contractor Test Plan
+A035a			Labor Cost Report
+A035b			System Security Plan
+A035c			Transition and Cutover Plan
+A035d			Operations and Maintenance Plan
+A037			Test Report (Software Test Report)
+A038			Test Script (Software Documentation)
+N/A				Knowledge Transfer Completion Agreement
